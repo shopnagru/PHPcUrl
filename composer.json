@@ -1,0 +1,17 @@
+{
+    "name": "shopnagru/php-curl",
+    "description": "PHP class for easy cUrl",
+    "type": "library",
+    "require": {
+        "php": "^7.0.0",
+        "curl/curl": "^1.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Slyusar",
+            "email": "i.slyusar@nag.ru"
+        }
+    ],
+    "minimum-stability": "dev"
+}
