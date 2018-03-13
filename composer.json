@@ -17,6 +17,6 @@
     	"psr-0": {
     		"Shopnagru": "src/"
     	}
-    }
+    },
     "minimum-stability": "dev"
 }
