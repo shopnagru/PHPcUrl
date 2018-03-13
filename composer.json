@@ -13,5 +13,10 @@
             "email": "i.slyusar@nag.ru"
         }
     ],
+    "autoload": {
+    	"psr-0": {
+    		"Shopnagru": "src/"
+    	}
+    }
     "minimum-stability": "dev"
 }
