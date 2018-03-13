@@ -6,7 +6,7 @@
  * @version 2018.03.131437
  */
 
-namespace PHPcUrl;
+namespace Shopnagru\PHPcUrl;
 
 class Curl
 {
