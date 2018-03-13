@@ -18,5 +18,8 @@
     		"Shopnagru": "src/"
     	}
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": "0.1-dev"
+    }
 }

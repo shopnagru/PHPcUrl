@@ -3,7 +3,7 @@
  * Класс для удобной работы с cUrl
  * @see http://php.net/manual/ru/book.curl.php
  * @author Ivan Slyusar <i.slyusar@nag.ru>
- * @version 2018.03.131437
+ * @version 0.1
  */
 
 namespace Shopnagru\PHPcUrl;
