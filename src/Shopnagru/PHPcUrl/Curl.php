@@ -141,6 +141,14 @@ class Curl
     }
 
     /**
+     * @param bool $ssl_verify_peer
+     */
+    public function setSslVerifyPeer($ssl_verify_peer)
+    {
+        $this->setopt(CURLOPT_SSL_VERIFYPEER, $ssl_verify_peer);
+    }
+
+    /**
      * @param int $option
      * @param mixed $value
      */
