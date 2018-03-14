@@ -1,5 +1,8 @@
 # cUrl
 
+[![GitHub license](https://img.shields.io/github/license/shopnagru/PHPcUrl.svg)](https://github.com/shopnagru/PHPcUrl/blob/master/LICENSE)
+
+
 [ru](#ru) [en](#en)
 
 # ru
