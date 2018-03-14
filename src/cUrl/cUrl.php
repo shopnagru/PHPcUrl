@@ -3,7 +3,7 @@
  * Класс для удобной работы с cUrl
  * @see http://php.net/manual/ru/book.curl.php
  * @author Ivan Slyusar <i.slyusar@nag.ru>
- * @version 0.2018.03.141244
+ * @version 0.2018.03.141422
  */
 
 namespace SNR;

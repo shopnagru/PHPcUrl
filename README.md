@@ -16,6 +16,7 @@ composer require shopnagru/php-curl
 
 * пример:
 <pre>
+require_once __DIR__ . '/vendor/autoload.php';
 use SNR\cUrl;
 ...
 $curl = new cUrl();
@@ -35,6 +36,7 @@ composer require shopnagru/php-curl
 
 * example:
 <pre>
+require_once __DIR__ . '/vendor/autoload.php';
 use SNR\cUrl;
 ...
 $curl = new cUrl();
