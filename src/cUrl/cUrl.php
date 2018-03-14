@@ -85,6 +85,14 @@ class cUrl
         $this->setopt(CURLOPT_POST, $post);
     }
 
+    /**
+     * @param array $post_fields
+     */
+    public function setPostFields($post_fields)
+    {
+        $this->setopt(CURLOPT_POSTFIELDS, $post_fields);
+    }
+
 
     /**
      * @param bool|null $verbose
