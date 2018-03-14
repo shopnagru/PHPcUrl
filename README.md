@@ -31,7 +31,6 @@ composer require shopnagru/php-curl
 </pre>
 
 * example:
-* пример:
 <pre>
 use SNR\cUrl;
 ...
