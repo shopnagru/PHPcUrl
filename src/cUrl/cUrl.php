@@ -6,9 +6,9 @@
  * @version 0.1
  */
 
-namespace Shopnagru\PHPcUrl;
+namespace SNR;
 
-class Curl
+class cUrl
 {
 
     protected $verbose = true;
