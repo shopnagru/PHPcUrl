@@ -3,7 +3,7 @@
  * Класс для удобной работы с cUrl
  * @see http://php.net/manual/ru/book.curl.php
  * @author Ivan Slyusar <i.slyusar@nag.ru>
- * @version 0.1
+ * @version 0.2018.03.141244
  */
 
 namespace SNR;
@@ -86,7 +86,7 @@ class cUrl
     }
 
     /**
-     * @param array $post_fields
+     * @param array|string $post_fields
      */
     public function setPostFields($post_fields)
     {
