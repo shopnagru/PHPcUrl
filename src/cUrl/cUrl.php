@@ -25,10 +25,11 @@ class cUrl
 
     /**
      * Curl constructor.
+     * @param bool $default
      */
-    public function __construct()
+    public function __construct($default = false)
     {
-        $this->init();
+        $this->init($default);
     }
 
     public function init($default = false)
