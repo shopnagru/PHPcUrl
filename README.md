@@ -2,7 +2,7 @@
 
 [ru](#ru) [en](#en)
 
-#ru
+# ru
 
 Класс для более удобного использования curl
 
@@ -11,7 +11,7 @@
 composer require shopnagru/php-curl
 </pre>
 
-#en
+# en
 
 Php class for easy cUrl
 
