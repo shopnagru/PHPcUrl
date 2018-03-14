@@ -14,8 +14,8 @@
         }
     ],
     "autoload": {
-    	"psr-0": {
-    		"SNR": "src/"
+    	"psr-4": {
+    		"SNR\\": "src/"
     	}
     },
     "minimum-stability": "dev",
