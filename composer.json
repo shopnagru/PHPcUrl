@@ -3,8 +3,7 @@
     "description": "PHP class for easy cUrl",
     "type": "library",
     "require": {
-        "php": "^7.0.0",
-        "curl/curl": "^1.5"
+        "php": "^7.0.0"
     },
     "license": "MIT",
     "authors": [
